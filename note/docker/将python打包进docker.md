@@ -5,7 +5,7 @@
 FROM python:3.8.5
 MAINTAINER walkenzhong walkenzhong@gmail.com
 #copy code
-COPY ./app2 /service
+COPY . /service
 #working directory
 WORKDIR /service
 #run some commend
