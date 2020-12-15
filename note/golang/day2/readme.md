@@ -283,3 +283,9 @@ append bool byte cap close complex complex64 complex128 uint16 copy false float3
 
 ## 标识符
 标识符用来命名变量、类型等程序实体。一个标识符实际上就是一个或是多个字母(A~ Z和a~ z)数字(0~9)、下划线“_”组成的序列，但是第一个字符必须是字母或下划线而不能是数字。
+
+## reference
+1. https://github.com/datawhalechina/go-talent/blob/master/1.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E3%80%81%E5%85%B3%E9%94%AE%E5%AD%97%E3%80%81%E6%A0%87%E8%AF%86%E7%AC%A6.md
+2. https://www.runoob.com/go/go-functions.html
+3. https://learnku.com/docs/the-little-go-book/decl_init/3305
+4. https://juejin.cn/post/6844903636313571341
